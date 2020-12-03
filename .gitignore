@@ -1,0 +1,16 @@
+### Scala
+*.log
+*.class
+
+### SBT
+target/
+
+### IntelliJ
+.idea
+
+### VS Code
+.bsp
+.vscode
+.metals
+.bloop
+metals.sbt
